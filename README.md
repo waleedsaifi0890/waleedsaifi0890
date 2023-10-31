@@ -1,5 +1,5 @@
 <div align="center">
- [Waleed](https://github.com/waleedsaifi0890/waleedsaifi0890/assets/107859234/421fa8b9-f9ad-4f45-a883-2da00c9a7234)
+ [Waleed](https://imgur.com/a/aqYxpfB)
 
 </div>
 
