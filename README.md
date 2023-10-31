@@ -1,22 +1,15 @@
+![gif](https://github.com/waleedsaifi0890/waleedsaifi0890/assets/107859234/7df52cf8-28f2-432a-b193-999d72e4fe74)
 
 
-<h1>Hello there 👋, I'm Waleed Saifi</h1>
+# Hello there 👋, I'm Waleed Saifi
 
-<div style="display: flex; align-items: center;">
-    <div>
-        <img src="https://github.com/waleedsaifi0890/waleedsaifi0890/assets/107859234/7df52cf8-28f2-432a-b193-999d72e4fe74" width="300" height="300"/>
-    </div>
-    <div style="margin-left: 20px;">
-        <h3>Software Engineer/MERN Stack Developer</h3>
-        <ul>
-            <li>🔭 I’m currently working on: MERN Stack Projects</li>
-            <li>🌱 I’m currently learning: Three.js</li>
-            <li>💬 Ask me about Full Stack Development, Mobile and Desktop Applications, Software Solutions, DevOps, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...</li>
-            <li>🧧 Chinese name: 瓦利德</li>
-            <li>⚡ Fun fact: I like to tell my computer what to do.</li>
-        </ul>
-    </div>
-</div>
+### Software Engineer/MERN Stack Developer
+
+- 🔭 I’m currently working on: MERN Stack Projects 
+- 🌱 I’m currently learning: Three.js
+- 💬 Ask me about __Full Stack Development, Mobile and Desktop Applications, Software Solutions, DevOps, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev..._
+- 🧧 Chinese name: __瓦利德__
+- ⚡ Fun fact: I like to tell my computer what to do.
 
 <br/>
 
@@ -131,10 +124,10 @@
 </table>
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=WaleedSaifi0890&theme=tokyonight&hide_border=true" />
+
+
 ### Support my Work
-
-
-
 
 
 
