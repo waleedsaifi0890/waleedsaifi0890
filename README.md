@@ -22,6 +22,7 @@
 
 
 
+![Alt Text](https://github-readme-streak-stats.herokuapp.com?user=WaleedSaifi0890&theme=tokyonight&hide_border=true)
 
 
 
@@ -119,7 +120,6 @@
 </table>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=WaleedSaifi0890&theme=tokyonight&hide_border=true" />
 
 
 ### Support my Work
