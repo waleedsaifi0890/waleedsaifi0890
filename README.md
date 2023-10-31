@@ -28,7 +28,8 @@
 
 
 
-### Contact me:
+
+<h3 align="center">Contact</h3>
 <br>
 <p align="center">
 <a href="https://twitter.com/WaleedSaifi34"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
