@@ -11,7 +11,18 @@
 <br/>
 
 
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+```txt
+JavaScript   1 hr 53 mins    ███████████████▓░░░░░░░░░   63.21 %
+TypeScript   56 mins         ███████▓░░░░░░░░░░░░░░░░░   31.14 %
+Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JavaScript   1 hr 44 mins    ███████████████████▓░░░░░   78.19 %
+TypeScript   19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Markdown     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+```
 
 
 
