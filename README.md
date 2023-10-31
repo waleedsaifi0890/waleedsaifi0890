@@ -37,10 +37,6 @@
             <a href="https://aws.amazon.com/"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/></a>
             <a href="https://aws.amazon.com/cloudformation/"><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
             <a href="https://aws.amazon.com/eks/"><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
-            <a href="https://aws.amazon.com/ecs/"><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
-            <a href="https://aws.amazon.com/elastic-container-service/"><img src="https://www.vectorlogo.zone/logos/amazon_elastic_container_service/amazon_elastic_container_service-icon.svg" width="40" height="40"/></a>
-            <a href="https://aws.amazon.com/cloudwatch/"><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="40" height="40"/></a>
-            <a href="https://www.serverless.com/"><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -48,7 +44,6 @@
         <td>
             <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
             <a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/></a>
-            <a href="https://circleci.com/"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -75,11 +70,6 @@
             <a href="https://www.splunk.com/"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/></a>
             <a href="https://www.datadoghq.com/"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40"/></a>
             <a href="https://www.elastic.co/"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/></a>
-            <a href="https://www.elastic.co/logstash"><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="40" height="40"/></a>
-            <a href="https://www.elastic.co/kibana"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40"/></a>
-            <a href="https://www.appdynamics.com/"><img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-icon.svg" width="40" height="40"/></a>
-            <a href="https://prometheus.io/"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
-            <a href="https://www.sumologic.com/"><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -102,10 +92,8 @@
             <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/></a>
             <a href="https://redis.io/"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/></a>
             <a href="https://www.oracle.com/database/"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/></a>
-            <a href="https://cassandra.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40" height="40"/></a>
             <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/></a>
             <a href="https://neo4j.com/"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" width="40" height="40"/></a>
-            <a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
