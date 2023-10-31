@@ -33,7 +33,7 @@
 
 
 **Languages and Tools:**  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></div>
     <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"></code></div>
     <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"></code></div>
@@ -68,6 +68,7 @@
     <div><code><img height="30" src="https://www.strapi.io/assets/strapi-logo-dark.svg"></code></div>
     <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/contentful/contentful-plain.svg"></code></div>
 </div>
+
 
 
 
