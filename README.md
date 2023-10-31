@@ -116,7 +116,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsaifi0890&show_icons=true&locale=en&layout=compact" alt="waleedsaifi0890" />
 </p>
 <p float="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsaifi0890&" alt="waleedsaifi0890" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsaifi0890&" alt="waleedsaifi0890" width="50%" />
     <img src="https://github-readme-stats.vercel.app/api?username=waleedsaifi0890&show_icons=true&locale=en" alt="waleedsaifi0890" width="50%" />
 </p>
 
