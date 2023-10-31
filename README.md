@@ -1,9 +1,9 @@
 <div align="center" width="200">
- 
+ ![gif](https://github.com/waleedsaifi0890/waleedsaifi0890/assets/107859234/7df52cf8-28f2-432a-b193-999d72e4fe74)
 
 </div>
 
-![gif](https://github.com/waleedsaifi0890/waleedsaifi0890/assets/107859234/7df52cf8-28f2-432a-b193-999d72e4fe74)
+
 
 
 # Hello there 👋, I'm Waleed Saifi
