@@ -33,41 +33,24 @@
 
 
 **Languages and Tools:**  
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antd/antd-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"></code></div>
-    <div><code><img height="30" src="https://www.algolia.com/static_assets/images/press/downloads/search-by-algolia.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original-wordmark.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakra/chakra-plain.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/payment/payment-original.svg"></code></div>
-    <div><code><img height="30" src="https://www.datocms-assets.com/press/logo-2f8b8f2a3a20002e3f22fde29b5c054c13f360bc26078e1d7ec2b1be6789784b.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webhooks/webhooks-original.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"></code></div>
-    <div><code><img height="30" src="https://www.strapi.io/assets/strapi-logo-dark.svg"></code></div>
-    <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/contentful/contentful-plain.svg"></code></div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="display: flex;">
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antd/antd-original.svg"></code></div>
+    </div>
+    <div style="display: flex;">
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></code></div>
+        <div style="margin: 5px;"><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></code></div>
+    </div>
+    <!-- Add more rows following the same pattern -->
 </div>
 
 
@@ -76,7 +59,6 @@
 
 
 
-</table>
 
 
 
