@@ -24,14 +24,15 @@
 
 
 
-![Alt Text](https://github-readme-streak-stats.herokuapp.com?user=WaleedSaifi0890&theme=tokyonight&hide_border=true)
+
 
 
 
 ### Contact me:
-
+<p align="center">
 <a href="https://twitter.com/WaleedSaifi34"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/javascript-web-developer/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -100,7 +101,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsaifi0890" alt="waleedsaifi0890" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Statistics</h3>
 <p align="left">
 </p>
 
