@@ -33,6 +33,7 @@
 
 
 **Languages and Tools:**  
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></div>
     <div><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"></code></div>
