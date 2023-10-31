@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Three.js
 - 💬 Ask me about __Full Stack Development, Mobile and Desktop Applications, Software Solutions, DevOps, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev..._
 - 🧧 Chinese name: __瓦利德__
-- ⚡ Fun fact: I
+- ⚡ Fun fact: I like to tell my computer what to do.
 
 <br/>
 
