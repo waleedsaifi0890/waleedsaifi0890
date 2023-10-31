@@ -29,10 +29,14 @@
 
 
 ### Contact me:
+<br>
 <p align="center">
-<a href="https://twitter.com/WaleedSaifi34"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href="https://twitter.com/WaleedSaifi34"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/javascript-web-developer/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 </p>
+
+<br>
+<br>
 
 
 <h3 align="center">Languages and Tools:</h3>
