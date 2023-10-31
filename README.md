@@ -1,8 +1,6 @@
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/waleedsaifi0890/waleedsaifi0890/assets/107859234/7df52cf8-28f2-432a-b193-999d72e4fe74" alt="Waleed Saifi" style="max-width: 50%; height: auto; margin: 0 auto;" />
+    <img src="https://github.com/waleedsaifi0890/waleedsaifi0890/raw/main/assets/107859234/7df52cf8-28f2-432a-b193-999d72e4fe74.gif" alt="Waleed Saifi" style="width: 50%; display: block; margin: 0 auto;" />
 </div>
-
-
 
 
 
