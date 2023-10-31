@@ -42,11 +42,11 @@
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"></code>
 </p>
 <p align="center">
- <img height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/>
- <img height="50"   src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"/> 
- <img height="50"  src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40"/>
- <img height="50"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"/>
- <img height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/>  
+ <img height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>
+ <img height="50"   src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"/> 
+ <img height="50"  src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" />
+ <img height="50"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" />
+ <img height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/>  
 </p>
 
 
