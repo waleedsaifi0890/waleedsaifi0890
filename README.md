@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center;">
-    <img src="assets/107859234/7df52cf8-28f2-432a-b193-999d72e4fe74.gif" alt="Waleed Saifi" style="width: 50%; display: block; margin: 0 auto;" />
-</div>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
 
